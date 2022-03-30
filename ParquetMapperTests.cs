@@ -9,7 +9,7 @@ namespace ParquetMapper;
 [Collection("ParquetMapperTests")]
 public class ParquetMapperTests
 {
-    private const string ParquetsTestFullSnappyParquet = "parquets/full-00000.snappy.parquet";
+    private const string ParquetsTestFullSnappyParquet = "full-00000.snappy.parquet";
 
 
     [Fact]

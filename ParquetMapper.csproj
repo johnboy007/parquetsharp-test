@@ -22,6 +22,9 @@
   </ItemGroup>
 
   <ItemGroup>
+    <None Update="full-00000.snappy.parquet">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
     <None Update="Parquets\full-00000.snappy.parquet">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
